@@ -1,4 +1,4 @@
-# hurriyetapi
+# Vuejs IMDB Api Example
 
 > A Vue.js project
 
