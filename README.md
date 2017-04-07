@@ -1,5 +1,8 @@
 # Vuejs IMDB Api Example
 
+
+Projeyi online test etmek için linke tıklayınız. : http://162.243.15.217/
+
 > A Vue.js project
 
 ## Build Setup
