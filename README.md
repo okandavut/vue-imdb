@@ -1,8 +1,5 @@
 # Vuejs IMDB Api Example
 
-
-Click the url for test project : http://162.243.15.217/
-
 > A Vue.js project
 
 ## Build Setup
